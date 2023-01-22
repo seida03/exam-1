@@ -1,0 +1,19 @@
+.header {
+  display: flex;
+  background-color: rgb(254, 226, 179);
+  height: 5rem;
+  width: 100%;
+  justify-content: space-around;
+  align-items: center;
+}
+.header ul {
+  display: flex;
+  list-style: none;
+}
+.header ul li {
+  padding-left: 1rem;
+}
+.header ul .link {
+  text-decoration: none;
+  color: black;
+}/*# sourceMappingURL=header.module.css.map */

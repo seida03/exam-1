@@ -1,0 +1,21 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+.form .field {
+  height: 35px;
+  width: 250px;
+  margin-top: 20px;
+}
+.form .btn {
+  height: 35px;
+  width: 100px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  background-color: rgb(250, 227, 196);
+  border: 1px rgb(250, 227, 197) solid;
+  border-radius: 5px;
+}/*# sourceMappingURL=form.module.css.map */

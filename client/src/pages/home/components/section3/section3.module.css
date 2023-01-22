@@ -1,0 +1,31 @@
+.section3 {
+  display: flex;
+  padding: 2%;
+}
+.section3 .pic {
+  display: flex;
+  width: 60%;
+}
+.section3 .pic img {
+  height: 450px;
+  width: 300px;
+  padding: 4%;
+}
+.section3 .textandbtn {
+  width: 30%;
+}
+.section3 .textandbtn .text h2 {
+  font-size: 2rem;
+  color: rgb(50, 49, 49);
+}
+.section3 .textandbtn .text p {
+  color: rgb(49, 46, 46);
+}
+.section3 .textandbtn button {
+  height: 45px;
+  width: 170px;
+  border: none;
+  border-radius: 5%;
+  background-color: bisque;
+  margin-top: 30px;
+}/*# sourceMappingURL=section3.module.css.map */

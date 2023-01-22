@@ -1,0 +1,23 @@
+.header {
+    display: flex;
+    background-color: rgb(254, 226, 179);
+    height: 5rem;
+    width: 100%;
+    justify-content: space-around;
+align-items: center;
+    ul{
+        display: flex;
+        list-style: none;
+
+        li{
+            padding-left: 1rem;
+        }
+        
+        .link{
+            text-decoration: none;
+            color: black;
+            
+        }
+        
+    }
+}
